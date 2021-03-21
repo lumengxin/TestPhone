@@ -35,7 +35,7 @@ DevEco Studio 2.1 Beta2 - [使用指南](https://developer.harmonyos.com/cn/docs
 ## 创建HelloWorld工程
 
 - Create HarmonyOS Project：创建一个工程，选择js模板
-- 安装sdk: settings/Appearance/System/HarmonyOS, SDK Platforms勾选SDK`js`安装
+- 安装sdk: settings/Appearance/System/HarmonyOS, SDK Platforms勾选SDK`js` `native`安装
 - 安装模拟器：tools/HVD Manager, 选择手机模拟器安装，安装完毕运行
 - 运行项目：点击右上角运行图标，或者shift + F10
 
@@ -43,7 +43,7 @@ DevEco Studio 2.1 Beta2 - [使用指南](https://developer.harmonyos.com/cn/docs
 
 js代码目录位于`TestPhone/entry/src/main/js/`
 
-编码风格和vue比较像，内置国际化
+目录风格和小程序比较像，内置国际化
 
 一点修改后，shift + F10运行。
 
